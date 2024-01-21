@@ -1,0 +1,3 @@
+Model:https://drive.google.com/file/d/1Ke3Hm1lauJxViVzKCN-bxRS7w2AuBdb_/view?usp=sharing
+Dataset:https://drive.google.com/drive/folders/1J34W8fEFuNqtmSvwp2Xq7GBkwsCScPgL?usp=sharing
+Deployment:https://huggingface.co/spaces/DismemberedCupid/NewsCategorization
